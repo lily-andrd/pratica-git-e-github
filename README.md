@@ -14,4 +14,12 @@ git add <arquivo1> <arquivo2> ... <arquivoN>
 OU
 ```bash
 git add .
-```  
+``` 
+
+3. Fazendo commit 
+
+```bash
+git commit -m "Mensagem"
+```
+
+**atenção!** Todo commit deve ter uma descrição (obrigatório)
