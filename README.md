@@ -23,3 +23,8 @@ git commit -m "Mensagem"
 ```
 
 **atenção!** Todo commit deve ter uma descrição (obrigatório)
+
+4. fazendo commit 
+``` bash 
+git commit -m "comandalização"
+```
